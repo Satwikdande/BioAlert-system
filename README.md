@@ -1,1 +1,2 @@
 # BioAlert-system
+A biostatistics-based alarm system refers to a system that uses biostatistical methods and data analysis techniques to monitor, detect, and alert individuals or systems about significant health or environmental changes. These systems typically rely on biological data and statistical models to identify patterns or anomalies, triggering an alarm or alert when specific thresholds are reached.
